@@ -1,0 +1,10 @@
+.buy-book-message {
+    font-size: 24px;       
+    font-weight: bold;     
+    color: #4CAF50;        
+    text-align: center;    
+    height: 100vh;         
+    display: flex;         
+    justify-content: center; 
+    align-items: center;     
+}
